@@ -1,0 +1,91 @@
+# OSX
+#
+.DS_Store
+
+# Xcode
+#
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+project.xcworkspace
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# BUCK
+buck-out/
+\.buckd/
+*.keystore
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://github.com/fastlane/fastlane/blob/master/fastlane/docs/Gitignore.md
+
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+.vscode
+ios/fastlane/Appfile.swift
+ios/fastlane/Fastfile.swift
+ios/fastlane/FastlaneRunner
+ios/fastlane/report.xml
+ios/fastlane/swift/Appfile.swift
+ios/fastlane/swift/ArgumentProcessor.swift
+ios/fastlane/swift/ControlCommand.swift
+ios/fastlane/swift/Deliverfile.swift
+ios/fastlane/swift/DeliverfileProtocol.swift
+ios/fastlane/swift/Fastfile.swift
+ios/fastlane/swift/Fastlane.swift
+ios/fastlane/swift/Gymfile.swift
+ios/fastlane/swift/GymfileProtocol.swift
+ios/fastlane/swift/LaneFileProtocol.swift
+ios/fastlane/swift/main.swift
+ios/fastlane/swift/Matchfile.swift
+ios/fastlane/swift/MatchfileProtocol.swift
+ios/fastlane/swift/Precheckfile.swift
+ios/fastlane/swift/PrecheckfileProtocol.swift
+ios/fastlane/swift/RubyCommand.swift
+ios/fastlane/swift/RubyCommandable.swift
+ios/fastlane/swift/Runner.swift
+ios/fastlane/swift/RunnerArgument.swift
+ios/fastlane/swift/Scanfile.swift
+ios/fastlane/swift/ScanfileProtocol.swift
+ios/fastlane/swift/Screengrabfile.swift
+ios/fastlane/swift/ScreengrabfileProtocol.swift
+ios/fastlane/swift/Snapshotfile.swift
+ios/fastlane/swift/SnapshotfileProtocol.swift
+ios/fastlane/swift/SocketClient.swift
+ios/fastlane/swift/SocketClientDelegateProtocol.swift
+ios/fastlane/swift/SocketResponse.swift
+ios/fastlane/swift/upgrade_manifest.json
+ios/fastlane/swift/FastlaneSwiftRunner/README.txt
+ios/fastlane/swift/FastlaneSwiftRunner/FastlaneSwiftRunner.xcodeproj/project.pbxproj
+ios/fastlane/swift/FastlaneSwiftRunner/FastlaneSwiftRunner.xcodeproj/xcshareddata/xcschemes/FastlaneRunner.xcscheme

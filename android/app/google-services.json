@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "471889696290",
+    "firebase_url": "https://smsorganiser.firebaseio.com",
+    "project_id": "smsorganiser",
+    "storage_bucket": "smsorganiser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471889696290:android:1b92dfc0c2e9cd54",
+        "android_client_info": {
+          "package_name": "com.smsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471889696290-0mm19fin1ck9vl7ceo280tkf985g9hlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF3lcBE6_Kh4hrATpQj8xF5D3adSjkHc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
